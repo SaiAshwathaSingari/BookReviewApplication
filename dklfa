@@ -1,0 +1,117 @@
+[33mcommit a668a80e6d0a795d32ff5aa66e21f6fcb59ad5e0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SaiAshwathaSingari <singarisai777@gamil.com>
+Date:   Tue Jul 1 04:40:43 2025 +0530
+
+    Initial Commit
+
+[33mcommit fa6bb07442d70a4ea72d26c6731d8ff57ed4f9d6[m
+Author: lavskillup <73978832+lavskillup@users.noreply.github.com>
+Date:   Thu Nov 17 20:18:23 2022 +0530
+
+    Update .gitignore
+
+[33mcommit acde2efe07bcc65dc46cf038491b54f70c4f1017[m
+Author: lavskillup <lavanyas@skillup.tech>
+Date:   Thu Nov 17 20:15:32 2022 +0530
+
+    Removed practice proj
+
+[33mcommit 583a76cf5747da19bd2a5e32be9f2e37a59af8ce[m
+Author: lavskillup <lavanyas@skillup.tech>
+Date:   Fri Oct 7 14:05:14 2022 +0530
+
+    Changed the file
+
+[33mcommit 87df187d4e915a494dd1a093474b04a823a3535a[m
+Author: lavskillup <73978832+lavskillup@users.noreply.github.com>
+Date:   Thu Sep 15 21:11:28 2022 +0530
+
+    Create package.json
+
+[33mcommit 07ddfec2aed7f7de82b6fa5b75f837251936010a[m
+Author: lavskillup <73978832+lavskillup@users.noreply.github.com>
+Date:   Thu Sep 15 21:10:20 2022 +0530
+
+    Create auth_users.js
+
+[33mcommit 8eaab21a875557a90e197030f9654175fe0d4c3e[m
+Author: lavskillup <73978832+lavskillup@users.noreply.github.com>
+Date:   Thu Sep 15 21:09:53 2022 +0530
+
+    Create booked.js
+
+[33mcommit cbeafb1d37ca1de156fc7349397fadb0f0c679a7[m
+Author: lavskillup <73978832+lavskillup@users.noreply.github.com>
+Date:   Thu Sep 15 21:09:04 2022 +0530
+
+    Create general.js
+
+[33mcommit 92a28843aeb1bed548770bf139550da719d8106c[m
+Author: lavskillup <73978832+lavskillup@users.noreply.github.com>
+Date:   Thu Sep 15 21:08:18 2022 +0530
+
+    Update index.js
+
+[33mcommit 2e0a49789a8b623c617f094c64e0b672c4d6bd3d[m
+Author: lavskillup <73978832+lavskillup@users.noreply.github.com>
+Date:   Thu Sep 15 21:07:56 2022 +0530
+
+    Delete practiceuser.js
+
+[33mcommit f0e1598d12807c0fed18cee96f7c6a37d9673f4a[m
+Author: lavskillup <73978832+lavskillup@users.noreply.github.com>
+Date:   Thu Sep 15 21:07:20 2022 +0530
+
+    Made changes to store username in session
+
+[33mcommit f0209f09106e77d1714a0ef9b25381110c54408a[m
+Author: Sklup55 <85282385+Sklup55@users.noreply.github.com>
+Date:   Thu Sep 15 13:00:08 2022 +0530
+
+    Changed the POST endpoint route to '/'
+    
+    Changed the POST endpoint route to '/' for clarity(it was '/next/')
+
+[33mcommit 4c711c3040ad8fefde1321b42b067480e9eb03b6[m
+Author: Sklup55 <85282385+Sklup55@users.noreply.github.com>
+Date:   Thu Sep 15 12:58:31 2022 +0530
+
+    Added jsonwebtoken module
+    
+    Added jsonwebtoken version 8.5.1 module; inline with the CRUD lab
+
+[33mcommit 82928c4358ba68f877396098f1c999a8fb59c92e[m
+Author: lavskillup <lavanyas@skillup.tech>
+Date:   Tue Sep 13 13:30:36 2022 +0530
+
+    made some code cleanup
+
+[33mcommit ae67bd0fe549c243979fe12edd86d7caec445ed6[m
+Author: lavskillup <lavanyas@skillup.tech>
+Date:   Tue Sep 13 13:25:31 2022 +0530
+
+    improvised login and registration
+
+[33mcommit 36532fc11f7bc49ea3d389a8596037eef213b856[m
+Author: lavskillup <lavanyas@skillup.tech>
+Date:   Tue Sep 13 12:10:54 2022 +0530
+
+    Added session code
+
+[33mcommit 2d53cb0a20bacc34e852cf83a9eba61792a611bd[m
+Author: lavskillup <lavanyas@skillup.tech>
+Date:   Wed Sep 7 11:39:15 2022 +0530
+
+    added sample structure
+
+[33mcommit 7ceca9c52362afaa47f54088c3c8379f3187aab7[m
+Author: lavskillup <lavanyas@skillup.tech>
+Date:   Wed Sep 7 11:37:02 2022 +0530
+
+    Added practice project
+
+[33mcommit f509e5ee339055691689222c73228239d7199c8c[m
+Author: ibm-skills-network-bot <70593948+ibm-skills-network-bot@users.noreply.github.com>
+Date:   Wed Sep 7 02:01:37 2022 -0400
+
+    Initial commit
